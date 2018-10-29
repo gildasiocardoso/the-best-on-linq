@@ -1,0 +1,10 @@
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\bin\Debug\MakingLinqEasyTheBestOnLinq.exe.config
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\bin\Debug\MakingLinqEasyTheBestOnLinq.exe
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\bin\Debug\MakingLinqEasyTheBestOnLinq.pdb
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\obj\Debug\MakingLinqEasyTheBestOnLinq.csprojAssemblyReference.cache
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\obj\Debug\MakingLinqEasyTheBestOnLinq.FormMain.resources
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\obj\Debug\MakingLinqEasyTheBestOnLinq.Properties.Resources.resources
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\obj\Debug\MakingLinqEasyTheBestOnLinq.csproj.GenerateResource.cache
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\obj\Debug\MakingLinqEasyTheBestOnLinq.csproj.CoreCompileInputs.cache
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\obj\Debug\MakingLinqEasyTheBestOnLinq.exe
+D:\GILDASIO\Portfolio\MakingLinqEasy\MakingLinqEasyTheBestOnLinq\obj\Debug\MakingLinqEasyTheBestOnLinq.pdb
